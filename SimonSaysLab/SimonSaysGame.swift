@@ -12,7 +12,6 @@ import UIKit
 enum Color: Int {
     case Red, Green, Yellow, Blue
 }
-
 // MARK: - UIColor Display
 extension Color {
     var colorToDisplay: UIColor {
